@@ -1,0 +1,21 @@
+
+.partner-success-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .partner-success-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .partner-success-paragraph {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
